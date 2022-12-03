@@ -1,11 +1,11 @@
 # Portfólio do Bruno
-[https://www.craftz.dog/](https://www.craftz.dog/)
+[https://instagram.com/eibrunoruan/](https://instagram.com/eibrunoruan/)
 
-## Tutorial
+## Projeto Portfólio
 
-Watch how I built this website on YouTube:
+Apenas um pequeno e minimalista portfólio.
 
-[![YouTube thumbnail](./doc/thumb.png)](https://www.youtube.com/watch?v=bSMZgXzC9AA)
+[![Thumbnail](https://imgur.com/4EFmetf)](instagram.com/eibrunoruan)
 
 ## Stack
 
