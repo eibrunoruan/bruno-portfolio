@@ -9,38 +9,21 @@ Apenas um pequeno e minimalista portfólio.
 
 ## Stack
 
-- [Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
-- [Chakra UI](https://chakra-ui.com/) - A simple, modular and accessible component library for React
-- [Three.js](https://threejs.org/) - 3D library for JavaScript
-- [Framer Motion](https://www.framer.com/motion/) - An animation library for React
+- [Next.js](https://nextjs.org/) - Uma estrutura React com renderização híbrida estática e de servidor e pré-busca de rota, etc.
+- [Chakra UI](https://chakra-ui.com/) - Uma biblioteca de componentes simples, modular e acessível para React
+- [Three.js](https://threejs.org/) - Biblioteca 3D para JavaScript
+- [Framer Motion](https://www.framer.com/motion/) - Uma biblioteca de animação para React
 
 ## Project structure
 
 ```
 $PROJECT_ROOT
-│   # Page files
+│   # Arquivos de página
 ├── pages
-│   # React component files
+│   # Reagir arquivos de componentes
 ├── components
 │   # Non-react modules
 ├── lib
-│   # Static files for images and 3d model file
+│   # Arquivos estáticos para imagens e arquivo de modelo 3D
 └── public
 ```
-
-## License
-
-MIT License.
-
-You can create your own homepage for free without notifying me by forking this project under the following conditions:
-
-- Add a link to [my homepage](https://www.craftz.dog/)
-- Do not use the 3d voxel dog
-
-Check out [LICENSE](./LICENSE) for more detail.
-
----
-
-Looking for a Markdown note-taking app? Check out my app called Inkdrop:
-
-[![Inkdrop](https://github.com/craftzdog/dotfiles-public/raw/master/images/inkdrop.png)](https://www.inkdrop.app/)
