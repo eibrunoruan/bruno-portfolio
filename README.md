@@ -14,7 +14,7 @@ Apenas um pequeno e minimalista portfólio.
 - [Three.js](https://threejs.org/) - Biblioteca 3D para JavaScript
 - [Framer Motion](https://www.framer.com/motion/) - Uma biblioteca de animação para React
 
-## Project structure
+## Estrutura do Projeto
 
 ```
 $PROJECT_ROOT
